@@ -1,0 +1,10 @@
+names:
+- Be Careful
+- Dont do that
+- I am Sorry
+- I Need Help
+- Need a bandage
+- 'Yes'
+nc: 6
+train: E:\Studies\Projects\YOLO (Hasnat)\yolov8_data\images\train
+val: E:\Studies\Projects\YOLO (Hasnat)\yolov8_data\images\val
